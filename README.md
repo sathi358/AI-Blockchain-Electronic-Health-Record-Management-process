@@ -113,11 +113,8 @@ npm run serve
 ## Implementation Demo : 
 
 ### 1. Home Page
-<br>
-<p align="center">
-  <img src="gif/Home.gif">
-</p>
-<br>
+# Auto detect text files and perform LF normalization
+* text=auto
 
 ### 2. Patient Home
 <br>
