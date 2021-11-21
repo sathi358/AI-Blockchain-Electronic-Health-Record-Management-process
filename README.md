@@ -125,12 +125,15 @@ npm run serve
 </p>
 <br>
 ### 4.Patient grants permission to the doctor for the specific report
+
 ![Patient-Logins-Grants-Permission](https://user-images.githubusercontent.com/92294220/142758037-708a5917-162b-46c3-ab1b-a6e812298254.gif)
 </p>
 <br>
 ### 5. Doctor view reports and summary of the reports
-![Doctor-Downloads-Report](https://user-images.githubusercontent.com/92294220/142758075-84670da6-7946-4ee0-88bd-1a07d7b5c1c3.gif)
 
+![Doctor-Downloads-Report](https://user-images.githubusercontent.com/92294220/142758075-84670da6-7946-4ee0-88bd-1a07d7b5c1c3.gif)
+</p>
+<br>
 
 
 
