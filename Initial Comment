@@ -75,3 +75,16 @@ typings/
 
 # Serverless directories
 .serverless
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "contract"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}
+
