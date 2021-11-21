@@ -110,24 +110,7 @@ npm run serve
 9. Your application is running, go to the link specified to open it!
 
 
-## Implementation Demo : 
 
-### 1. Home Page
-# Auto detect text files and perform LF normalization
-* text=auto
-
-### 2. Patient Home
-<br>
-<p align="center">
-  <img src="gif/Patient-Login-Without-Permission.gif">
-</p>
-<br>
-
-
-### 3. Doctor asking for permission from patient
-<br>
-<p align="center">
-  <img src="gif/Doctor-Logins-Asks-Permission.gif">
 </p>
 <br>
 
