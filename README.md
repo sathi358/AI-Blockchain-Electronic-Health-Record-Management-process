@@ -114,16 +114,4 @@ npm run serve
 </p>
 <br>
 
-### 4. Patient grants permission to the doctor for the specific report
-<br>
-<p align="center">
-  <img src="gif/Patient-Logins-Grants-Permission.gif">
-</p>
-<br>
 
-### 5. Doctor view reports and summary of the reports
-<br>
-<p align="center">
-  <img src="gif/Doctor-Downloads-Report.gif">
-</p>
-<br>
