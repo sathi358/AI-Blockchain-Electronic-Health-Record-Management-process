@@ -31,8 +31,7 @@ coverage
 bower_components
 
 # node-waf configuration
-.lock-wscript
-
+.lock-wscr
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
@@ -75,3 +74,16 @@ typings/
 
 # Serverless directories
 .serverless
+
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "contract"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}
