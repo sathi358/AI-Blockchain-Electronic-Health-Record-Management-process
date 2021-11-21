@@ -114,22 +114,22 @@ npm run serve
 ![Home](https://user-images.githubusercontent.com/92294220/142757850-baa80d2d-aa4a-4a2d-8bec-aea964fa4d1f.gif)
 </p>
 <br>
-### 2. Patient Home
+2. Patient Home
 
 ![Patient-Login-Without-Permission](https://user-images.githubusercontent.com/92294220/142757990-cb62b777-7078-4c1e-815f-8305b4eb7735.gif)
 </p>
 <br>
-### 3.Doctor asking for permission from patient
+ 3.Doctor asking for permission from patient
 
 ![Doctor-Logins-Asks-Permission](https://user-images.githubusercontent.com/92294220/142758008-6f3a388b-bdca-419f-9888-95d2c6785bb3.gif)
 </p>
 <br>
-### 4.Patient grants permission to the doctor for the specific report
+4.Patient grants permission to the doctor for the specific report
 
 ![Patient-Logins-Grants-Permission](https://user-images.githubusercontent.com/92294220/142758037-708a5917-162b-46c3-ab1b-a6e812298254.gif)
 </p>
 <br>
-### 5. Doctor view reports and summary of the reports
+ 5. Doctor view reports and summary of the reports
 
 ![Doctor-Downloads-Report](https://user-images.githubusercontent.com/92294220/142758075-84670da6-7946-4ee0-88bd-1a07d7b5c1c3.gif)
 </p>
